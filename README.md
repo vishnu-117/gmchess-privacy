@@ -4,13 +4,7 @@ The privacy policy page for the GMChess Android app (`index.html`), hosted
 with GitHub Pages. Its URL goes in Google Play Console, AdMob and the
 consent message.
 
-## Before publishing
-
-Replace the placeholder contact email (it appears twice):
-
-```bash
-sed -i 's/YOUR_CONTACT_EMAIL/you@example.com/g' index.html
-```
+Contact: [gmchess.analysis.puzzel@gmail.com](mailto:gmchess.analysis.puzzel@gmail.com)
 
 ## Publish with GitHub Pages
 

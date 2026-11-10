@@ -2,7 +2,7 @@
 
 Privacy policy for the GMChess: Chess Analysis & Puzzles Android app (`com.gmchess.app`).
 
-Last updated: 9 November 2026
+Last updated: 10 November 2026
 
 ## Summary
 
@@ -38,6 +38,10 @@ When you import games, the app sends the username you entered to the public API 
 - **Lichess** (lichess.org) – [Lichess privacy policy](https://lichess.org/privacy)
 
 These requests download publicly available games. As with any internet request, those services receive your device's IP address. The app does not log in to these sites and does not access any private account data.
+
+**Extra puzzle packs.** If you tap *Get more puzzles*, the app downloads a file of puzzles (from the Lichess open database) from GitHub (raw.githubusercontent.com, or the jsDelivr CDN as a backup). Nothing about you is sent; as with any download, GitHub or jsDelivr receives your IP address.
+
+**Internet check.** Before using a paid feature free because no ad could load, the app makes a tiny request to Google's standard connectivity check (clients3.google.com) to see whether the phone is online. No data is sent with it.
 
 ## 4. Advertising (Google AdMob)
 
